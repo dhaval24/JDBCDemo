@@ -27,6 +27,7 @@ public class Occupation {
     }
 
     public void setId(int id) {
+
         this.id = id;
     }
 
