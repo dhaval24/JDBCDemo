@@ -14,6 +14,8 @@ import javax.persistence.Embedded;
 @Scope("prototype")
 @Embeddable
 public class Address {
+
+
     public String getStreet() {
         return street;
     }
