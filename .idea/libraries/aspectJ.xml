@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="aspectJ">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Spring AOP/aopalliance-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Spring AOP/asm-3.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Spring AOP/aspectjrt-1.8.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Spring AOP/aspectjweaver-1.8.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Spring AOP/cglib-3.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Spring AOP/spring-aop-4.2.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

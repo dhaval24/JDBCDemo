@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="Hibernate">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/required/antlr-2.7.7.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/required/classmate-1.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/required/dom4j-1.6.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/required/geronimo-jta_1.1_spec-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/required/hibernate-commons-annotations-5.0.1.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/required/hibernate-core-5.1.0.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/required/hibernate-jpa-2.1-api-1.0.0.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/required/jandex-2.0.0.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/required/javassist-3.20.0-GA.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/required/jboss-logging-3.3.0.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/osgi/hibernate-osgi-5.1.0.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/osgi/org.osgi.compendium-4.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/osgi/org.osgi.core-4.3.1.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/optional/c3p0" />
+      <root url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/optional/ehcache" />
+      <root url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/optional/infinispan" />
+      <root url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/optional/proxool" />
+      <root url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/envers" />
+      <root url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/java8" />
+      <root url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/jpa" />
+      <root url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/jpa-metamodel-generator" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/osgi/org.osgi.compendium-4.3.1.jar!/OSGI-OPT/src" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/osgi/org.osgi.core-4.3.1.jar!/OSGI-OPT/src" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/envers" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/java8" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/jpa" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/jpa-metamodel-generator" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/optional/c3p0" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/optional/ehcache" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/optional/infinispan" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib/optional/proxool" recursive="false" />
+  </library>
+</component>
